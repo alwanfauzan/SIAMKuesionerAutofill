@@ -1,0 +1,316 @@
+{
+  "Name": "SIAM Kuesioner Autofill by Alwan, set Command Interval Fast (No Delay)",
+  "CreationDate": "2020-5-10",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "https://siam.ub.ac.id/notifikasi.php",
+      "Value": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "linkText=isi",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=1_02",
+      "Value": "3"
+    },
+    {
+      "Command": "click",
+      "Target": "id=1_02",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=10_13",
+      "Value": "4"
+    },
+    {
+      "Command": "click",
+      "Target": "id=10_13",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=11_22",
+      "Value": "3"
+    },
+    {
+      "Command": "click",
+      "Target": "id=11_22",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=12_33",
+      "Value": "4"
+    },
+    {
+      "Command": "click",
+      "Target": "id=12_33",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=13_43",
+      "Value": "4"
+    },
+    {
+      "Command": "click",
+      "Target": "id=13_43",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=14_51",
+      "Value": "2"
+    },
+    {
+      "Command": "click",
+      "Target": "id=14_51",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=15_63",
+      "Value": "4"
+    },
+    {
+      "Command": "click",
+      "Target": "id=15_63",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=16_71",
+      "Value": "2"
+    },
+    {
+      "Command": "click",
+      "Target": "id=16_71",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=17_83",
+      "Value": "4"
+    },
+    {
+      "Command": "click",
+      "Target": "id=17_83",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=18_91",
+      "Value": "2"
+    },
+    {
+      "Command": "click",
+      "Target": "id=18_91",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=19_103",
+      "Value": "4"
+    },
+    {
+      "Command": "click",
+      "Target": "id=19_103",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=2_111",
+      "Value": "2"
+    },
+    {
+      "Command": "click",
+      "Target": "id=2_111",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=20_123",
+      "Value": "4"
+    },
+    {
+      "Command": "click",
+      "Target": "id=20_123",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=21_131",
+      "Value": "2"
+    },
+    {
+      "Command": "click",
+      "Target": "id=21_131",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=22_143",
+      "Value": "4"
+    },
+    {
+      "Command": "click",
+      "Target": "id=22_143",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=23_153",
+      "Value": "4"
+    },
+    {
+      "Command": "click",
+      "Target": "id=23_153",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=24_163",
+      "Value": "4"
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"s\"]/tbody/tr[17]/td[2]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=24_163",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=25_173",
+      "Value": "4"
+    },
+    {
+      "Command": "click",
+      "Target": "id=25_173",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=26_183",
+      "Value": "4"
+    },
+    {
+      "Command": "click",
+      "Target": "id=26_183",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=27_193",
+      "Value": "4"
+    },
+    {
+      "Command": "click",
+      "Target": "id=27_193",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=28_203",
+      "Value": "4"
+    },
+    {
+      "Command": "click",
+      "Target": "id=28_203",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=3_213",
+      "Value": "4"
+    },
+    {
+      "Command": "click",
+      "Target": "id=3_213",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=4_223",
+      "Value": "4"
+    },
+    {
+      "Command": "click",
+      "Target": "id=4_223",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=5_231",
+      "Value": "2"
+    },
+    {
+      "Command": "click",
+      "Target": "id=5_231",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=6_243",
+      "Value": "4"
+    },
+    {
+      "Command": "click",
+      "Target": "id=6_243",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=7_253",
+      "Value": "4"
+    },
+    {
+      "Command": "click",
+      "Target": "id=7_253",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=8_263",
+      "Value": "4"
+    },
+    {
+      "Command": "click",
+      "Target": "id=8_263",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=9_273",
+      "Value": "4"
+    },
+    {
+      "Command": "click",
+      "Target": "id=9_273",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=saran",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=saran",
+      "Value": "Sudah baik"
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "xpath=//*[@id=\"s\"]/tbody/tr[30]/td/input",
+      "Value": ""
+    }
+  ]
+}
