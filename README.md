@@ -21,3 +21,5 @@ https://chrome.google.com/webstore/detail/uivision-rpa/gcbalfbdmfieckjlnblleoemo
 9. Play Macro or you can choose Play Loop (if you had multiple quessionaire that you want skip)
 ![enter image description here](https://cdn.discordapp.com/attachments/694357006210957343/708961460574879744/unknown.png)
 11. Enjoy
+
+Last Update : 10/05/20
